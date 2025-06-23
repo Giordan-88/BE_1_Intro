@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Bummer",
+    "edad": 12,
+    "animal": "Perro",
+    "color": "Marrón",
+    "enfermedad": "Diarrea"
+  },
+  {
+    "nombre": "Miau",
+    "edad": 8,
+    "animal": "Gato",
+    "color": "Gris",
+    "enfermedad": "Resfriado"
+  },
+  {
+    "nombre": "Paco",
+    "edad": 5,
+    "animal": "Loro",
+    "color": "Verde",
+    "enfermedad": "Plumas caídas"
+  },
+  {
+    "nombre": "Rex",
+    "edad": 10,
+    "animal": "Perro",
+    "color": "Negro",
+    "enfermedad": "Artrosis"
+  },
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  }
+]
